@@ -1,0 +1,10 @@
+{
+	"path_to_save_result": "../Face_Morph/papka",
+	"path_to_import_images": "../Face_Morph/papka",
+	"add_prcnt_ppt_y_upper": 0.4,
+	"add_prcnt_ppt_y_down": 0.10,
+	"add_prcnt_ppt_x": 0.15,
+	"enable_default_alpha_value": 1,
+	"default_alpha_value": 0.5,
+	"count_of_out_morphs": 4
+}
